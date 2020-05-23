@@ -30,7 +30,6 @@ If you want to add some more options in your build.prop, you can add them in "/t
 
 ## Credits
 All thanks go to ceijhey. You can get in contact with him at [Mi Note 3 channel in Telegram](https://t.me/s/minote3channel).
-
 Buid.prop edit code: To edit the build.prop, the code from [this XDA post](https://forum.xda-developers.com/showpost.php?p=19093919&postcount=20) by unCoRrUpTeD was used.
 
 ## I want more
