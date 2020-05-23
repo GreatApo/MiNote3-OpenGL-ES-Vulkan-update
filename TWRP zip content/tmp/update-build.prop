@@ -1,0 +1,12 @@
+debug.performance.tuning=1
+video.accelerate.hw=1
+ro.config.disable_hw_accel=false
+ro.telephony.call_ring.delay=0
+media.stagefright.enable-record=true
+media.stagefright.enable-http=true
+media.stagefright.enable-scan=true
+media.stagefright.enable-meta=true
+debug.composite.type=gpu
+debug.sf.hw=1
+ring.delay=0
+ro.HOME_APP_ADJ=1
