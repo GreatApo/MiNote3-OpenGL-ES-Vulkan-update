@@ -19,7 +19,7 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 4. Enjoy
 
 ## Screenshots
-<img src="/Screenshots/phone_info.jpg" width="100" title="Mi Note 3 device info"> <img src="/Screenshots/opengl_es_version.jpg" width="100" title="OpenGL ES"> <img src="/Screenshots/vulkan_api.jpg" width="100" title="Vulkan">
+<img src="/Screenshots/phone_info.jpg" width="200" title="Mi Note 3 device info"> <img src="/Screenshots/opengl_es_version.jpg" width="200" title="OpenGL ES"> <img src="/Screenshots/vulkan_api.jpg" width="200" title="Vulkan">
 
 ## Revert
 If something doesn't work, restore your backup or dirty flash (flash over) your new ROM/update again.
