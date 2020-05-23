@@ -23,10 +23,10 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 
 ## Revert
 If something doesn't work, restore your backup or dirty flash (flash over) your new ROM/update again.
+After each flash, the original build.prop is backed up as build.prop.GL_VK_bak under /system/
 
 ## Custom build.prop options
 If you want to add some more options in your build.prop, you can add them in "/tmp/update-build.prop", and they will be included in your buid.prop after flashing it.
-After each flash, the original build.prop is backed up as build.prop.GL_VK_bak under /system/
 
 ## Credits
 All thanks go to ceijhey. You can get in contact with him at [Mi Note 3 channel in Telegram](https://t.me/s/minote3channel).
