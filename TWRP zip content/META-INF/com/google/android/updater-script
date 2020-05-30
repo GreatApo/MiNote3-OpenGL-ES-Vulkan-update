@@ -1,6 +1,6 @@
 show_progress(0.1, 0);
 ui_print("# GL-VK-RV454");
-ui_print("# Version: v8 (21/05/2020)");
+ui_print("# Version: v9 (21/05/2020)");
 ui_print("# Compatibility: MIUI 12/11/10 based Android 9, AOSP Android 10/9");
 ui_print("# Features/Fixes:");
 ui_print("# - OpenGL ES 3.2 V@454.0");
