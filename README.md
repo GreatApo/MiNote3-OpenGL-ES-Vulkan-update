@@ -12,11 +12,12 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 - Some build.prop patches (rendering tweaks, GPU acceleration, force launcher into memory, smoother video streaming and tweak media)
 
 ## Installation
-0. Back up /system/ files (or do a full backup)
-1. Flash your new ROM or update (optional)
-2. Flash this zip
-3. Reboot to system
-4. Enjoy
+0. Back up /system/ files (or do a full backup).
+1. Flash your new ROM or update (optional).
+2. Flash this zip.
+4. Wipe Dalvic cache/cache.
+3. Reboot to system.
+4. Enjoy.
 
 ## Screenshots
 <img src="https://github.com/GreatApo/MiNote3-OpenGL-ES-Vulkan-update/blob/master/Screenshots/phone_info.jpg" width="200" title="Mi Note 3 device info"> <img src="https://github.com/GreatApo/MiNote3-OpenGL-ES-Vulkan-update/blob/master/Screenshots/opengl_es_version.jpg" width="200" title="OpenGL ES"> <img src="https://github.com/GreatApo/MiNote3-OpenGL-ES-Vulkan-update/blob/master/Screenshots/vulkan_api.jpg" width="200" title="Vulkan">
