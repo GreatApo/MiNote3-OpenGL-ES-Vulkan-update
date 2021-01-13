@@ -7,7 +7,7 @@ This zip is based on @ceijhey's magisk module named GV-VKRVxxx
 Use at your own risk. I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
 
 ## Features
-- OpenGL ES 3.2 V@490.0
+- OpenGL ES 3.2 V@454.0
 - Vulkan 1.1.128
 - Some build.prop patches (rendering tweaks, GPU acceleration, force launcher into memory, smoother video streaming and tweak media)
 
