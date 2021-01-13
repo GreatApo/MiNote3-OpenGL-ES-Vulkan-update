@@ -1,6 +1,6 @@
 # MiNote3-OpenGL-ES-Vulkan-update
 This is a TWRP flashable zip for Xiaomi Mi Note 3 intended to update your OpenGL ES and Vulkan drivers.
-I am testing this on Android 9, Xiaomi.eu MIUI 12 beta channel but it should work on MIUI 12/11/10 based Android 9.
+I am testing this on Android 11, LOS 18.1 by @mistercheese channel but it should work on ROMs trebles.
 This zip is based on @ceijhey's magisk module named GV-VKRVxxx
 
 ## Disclaimer
