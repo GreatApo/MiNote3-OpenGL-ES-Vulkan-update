@@ -19,9 +19,3 @@
 <permissions>
     <feature name="android.hardware.vulkan.compute" version="0" />
 </permissions>
-
-
-
-
-
-
